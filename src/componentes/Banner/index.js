@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+                    Boas vindas ao meu espaço pessoal! Eu sou André Sales, psicólogo formado pelo Mackenzie e Analista do Comportamento pela USP, com graduação em Análise e Desenvolvimento de Sistemas pela FIAP. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
                 </p>
             </div>
 
@@ -26,7 +26,7 @@ export default function Banner() {
                 <img
                     className={styles.minhaFoto}
                     src={minhaFoto}
-                    alt="Foto do Antônio Evaldo sorrindo"
+                    alt="Foto do André de frente porém olhando de lado distraído"
                 />
             </div>
         </div>
