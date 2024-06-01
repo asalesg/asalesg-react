@@ -11,7 +11,7 @@ export default function Projetos() {
     return (
         <PostModelo>
             <h3 className={styles.subtitulo}>
-                Aqui pode ver alguns dos meus projetos pessoais em produção.
+                Veja alguns dos meus projetos pessoais em produção.
             </h3>
             <br></br>
             <br></br>
